@@ -1,0 +1,325 @@
+X,FITS_SBS1.FITS.1.S154.L001,FITS_SBS1.FITS.2.S155.L001,FITS_SBS1.FITS.22.S167.L001,FITS_SBS2.FITS.1.S170.L001,FITS_SBS2.FITS.17.S178.L001,FITS_SBS2.FITS.18.S179.L001,FITS_SBS2.FITS.19.S180.L001,FITS_SBS2.FITS.20.S181.L001,FITS_SBS2.FITS.21.S182.L001,FITS_SBS2.FITS.23.S184.L001,FITS_SBS2.FITS.24.S185.L001,FITS_SBS2.FITS.6.S175.L001,FITS_SBS2.PITSFITS.11.S35.L001,FITS_SBS2.PITSFITS.12.S36.L001,FITS_SBS2.PITSFITS.14.S38.L001,FITS_SBS2.PITSFITS.16.S40.L001,FITS_SBS2.PITSFITS.9.S33.L001,FITS_SBS3.FITS.17.S194.L001,FITS_SBS3.FITS.19.S196.L001,FITS_SBS3.PITSFITS.10.S58.L001,FITS_SBS3.PITSFITS.11.S59.L001,FITS_SBS3.PITSFITS.13.S61.L001,FITS_SBS3.PITSFITS.14.S62.L001,FITS_SBS3.PITSFITS.15.S63.L001,FITS_SBS3.PITSFITS.16.S64.L001,FITS_SBS4.FITS.1.S202.L001,FITS_SBS4.FITS.2.S203.L001,FITS_SBS4.FITS.3.S204.L001,FITS_SBS4.FITS.4.S205.L001,FITS_SBS4.FITS.6.S207.L001,FITS_SBS4.FITS.7.S208.L001,FITS_SBS4.FITS.8.S209.L001,FITS_SBS4.PITSFITS.10.S82.L001,FITS_SBS4.PITSFITS.11.S83.L001,FITS_SBS4.PITSFITS.12.S84.L001,FITS_SBS4.PITSFITS.13.S85.L001,FITS_SBS4.PITSFITS.16.S88.L001,FITS_SBS4.PITSFITS.9.S81.L001,FITS_SBS5.FITS.10.S227.L001,FITS_SBS5.FITS.12.S229.L001,FITS_SBS5.FITS.3.S220.L001,FITS_SBS5.FITS.5.S222.L001,FITS_SBS6.FITS.1.S242.L001,FITS_SBS6.FITS.17.S258.L001,FITS_SBS6.FITS.18.S259.L001,FITS_SBS6.FITS.21.S262.L001,FITS_SBS6.FITS.4.S245.L001,FITS_SBS6.FITS.6.S247.L001
+Eukaryota;Ascomycota;Archaeorhizomycetes;Archaeorhizomycetales;Archaeorhizomycetaceae;Archaeorhizomyces;Archaeorhizomyces borealis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,0,7,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Botryosphaeriales;Botryosphaeriaceae;Diplodia;Diplodia corticola,8,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Botryosphaeriales;Botryosphaeriaceae;Macrophomina;Macrophomina phaseolina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,69,58,67,62,61,60,51,58,78,61,72,56,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Capnodiales;Cladosporiaceae;Cladosporium;,12,6,18,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,8,0,0,5,0,5,0,0,0,0,0,0,0,7,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Capnodiales;Cladosporiaceae;Cladosporium;Cladosporium rhusicola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Capnodiales;Cladosporiaceae;Cladosporium;Cladosporium sp. CBS 125.88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,8,17,6,17,15,22,31,20,21,29,17,18,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Capnodiales;Cladosporiaceae;Neocladosporium;Neocladosporium leucadendri,0,7,9,0,0,7,12,0,0,9,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Capnodiales;Neodevriesiaceae;Neodevriesia;Neodevriesia capensis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Capnodiales;Teratosphaeriaceae;Capnobotryella;Capnobotryella sp. MA 4642,8,14,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Capnodiales;Teratosphaeriaceae;Devriesia;Devriesia pseudoamericana,0,6,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Dothideales;Dothioraceae;Pseudoseptoria;Pseudoseptoria obscura,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Dothideales;NA;NA;Dothideales sp. P44C001,16,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Dothideales;Saccotheciaceae;Aureobasidium;,69,52,66,0,0,0,0,0,18,0,15,0,10,13,0,0,0,0,0,0,0,0,0,0,0,10,0,11,0,0,7,0,17,0,17,16,0,9,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Dothideales;Saccotheciaceae;Aureobasidium;Aureobasidium pullulans,87,50,54,11,13,0,13,7,0,0,0,7,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,14,0,0,14,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Minutisphaerales;Minutisphaeraceae;Minutisphaera;Minutisphaera aspera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125,133,98,144,150,122
+Eukaryota;Ascomycota;Dothideomycetes;Mytilinidiales;Mytilinidiaceae;Mytilinidion;Mytilinidion californicum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,14,8,0,11,0,12,7,11,14,9,21,18,14,17,18,13,23,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;NA;NA;NA;Dothideomycetes sp.,10,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Coniothyriaceae;Coniothyrium;,0,0,0,7,0,0,0,0,0,0,5,0,16,6,0,0,0,0,0,0,0,5,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Coniothyriaceae;Coniothyrium;Coniothyrium sp. JK40,89,113,146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Cucurbitariaceae;Pyrenochaeta;Pyrenochaeta inflorescentiae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Cucurbitariaceae;Pyrenochaeta;Pyrenochaeta lycopersici,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Cucurbitariaceae;Pyrenochaeta;Pyrenochaeta sp. shylm24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,9,24,39,22,21,18,25,39,109,84,89,102,104,62,108,53,91,49,96,113,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Didymellaceae;Ascochyta;Ascochyta caulina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Didymellaceae;Phoma;Phoma sp. ATCC MYA-3200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,22,13,22,0,15,24,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Didymosphaeriaceae;Paraphaeosphaeria;Paraphaeosphaeria michotii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,9,0,0,21,13,27,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Didymosphaeriaceae;Paraphaeosphaeria;Paraphaeosphaeria sporulosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,6,0,5,0,7,0,0,5,0,8,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Lentitheciaceae;Darksidea;Darksidea epsilon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Leptosphaeriaceae;Leptosphaeria;Leptosphaeria proteicola,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Massarinaceae;Stagonospora;Stagonospora sp. VegaE2-84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,35,12,25,14,11,12,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;NA;;,0,0,0,5,0,0,0,6,0,0,0,0,0,0,0,0,5,0,0,0,0,0,21,0,0,33,22,39,51,41,44,31,46,56,30,46,29,53,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;NA;NA;Pleosporales sp.,0,9,0,0,0,0,0,0,0,0,0,0,5,0,0,0,19,0,0,0,0,0,0,0,0,16,0,0,12,9,8,12,10,0,15,7,6,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;NA;NA;Pleosporales sp. 9 KB-2015,48,39,41,772,786,912,956,847,937,809,1005,970,813,985,936,954,876,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;NA;NA;Pleosporales sp. MU-2009-2,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,55,54,66,24,58,39,41,65,25,36,42,44,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;NA;NA;Pleosporales sp. r059,12,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;NA;NA;Pleosporales sp. r292,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;NA;NA;Pleosporales sp. r305,39,25,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Phaeosphaeriaceae;Didymocyrtis;,0,0,0,12,0,0,0,0,0,8,13,0,7,0,9,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Phaeosphaeriaceae;NA;,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Phaeosphaeriaceae;Neosetophoma;Neosetophoma italica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Phaeosphaeriaceae;Ophiosimulans;Ophiosimulans tanaceti,2752,3229,2893,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Phaeosphaeriaceae;Paraphoma;Paraphoma fimeti,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,46,33,28,29,35,24,30,44,31,32,18,19,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Phaeosphaeriaceae;Parastagonospora;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,0,0,5,8,0,19,0,0,9,7,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Phaeosphaeriaceae;Parastagonospora;Parastagonospora nodorum,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Phaeosphaeriaceae;Sclerostagonospora;Sclerostagonospora sp. CBS 118152,107,131,81,0,0,0,18,12,22,9,0,30,8,0,36,17,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Alternaria;,45,15,0,0,5,6,10,11,10,0,0,11,0,0,8,0,5,9,24,27,10,16,23,0,17,0,0,0,0,0,0,8,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Alternaria;Alternaria atra,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Alternaria;Alternaria consortialis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Alternaria;Alternaria eureka,0,5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Alternaria;Alternaria infectoria,19,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Alternaria;Alternaria leptinellae,26,16,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Alternaria;Alternaria malorum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,351,417,471,446,517,513,528,565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Alternaria;Alternaria sp. BLE26,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Curvularia;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Drechslera;,242,243,227,62,57,36,86,62,59,45,38,47,43,80,65,45,52,0,0,0,0,0,0,0,0,99,109,130,140,108,118,95,122,94,135,113,114,125,0,0,12,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Drechslera;Drechslera biseptata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,20,33,33,22,16,25,13,30,26,24,30,20,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Drechslera;Drechslera nobleae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,34,28,10,12,29,33,27,30,17,18,17,35,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;NA;,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;NA;Pleosporaceae sp.,1209,1228,1229,90,109,121,89,92,158,115,113,61,84,74,81,161,96,16,0,0,0,11,17,0,0,847,855,887,761,824,880,799,781,765,804,782,901,795,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Pithomyces;Pithomyces chartarum,12,7,0,0,0,0,0,0,0,0,6,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Pyrenophora;,136,126,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Pyrenophora;Pyrenophora leucospermi,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Pyrenophora;Pyrenophora seminiperda,0,6,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Stemphylium;,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Pleosporales;Sporormiaceae;Preussia;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Tubeufiales;Tubeufiaceae;Helicoma;Helicoma isiola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Tubeufiales;Tubeufiaceae;Helicomyces;Helicomyces roseus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,114,101,136,110,107,100,102,64,96,96,98,114,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Dothideomycetes;Tubeufiales;Tubeufiaceae;Helicosporium;Helicosporium indicum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,33,24,65,84,36,48,54,21,22,52,39,61,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Cyphellophoraceae;Cyphellophora;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,52,0,0,0,54,0,35,5,80,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Cyphellophoraceae;Cyphellophora;Cyphellophora gamsii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,63,0,42,0,0,0,58,0,0,0,0,0,11,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Cyphellophoraceae;Cyphellophora;Cyphellophora reptans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,10,6,9,15,25,21,12,10,0,12,9,20,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Cyphellophoraceae;Cyphellophora;Cyphellophora sp. NWHC 26464-03-01-02C,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Capronia;Capronia sp. EXF-9885,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,11,11,21,38,17,19,13,0,31,24,23,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Cladophialophora;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Cladophialophora;Cladophialophora bantiana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Cladophialophora;Cladophialophora carrionii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,0,9,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Cladophialophora;Cladophialophora chaetospira,4015,3710,3929,219,256,237,297,295,341,264,306,254,209,227,254,284,207,739,738,656,771,717,708,808,746,1038,848,988,888,910,841,839,792,850,821,893,824,977,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Cladophialophora;Cladophialophora emmonsii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9226,8525,8581,8715,8837,8483,8431,8164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Cladophialophora;Cladophialophora sp.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,5,0,0,12,14,0,0,0,13,10,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Coniosporium;Coniosporium sp. MA 4597,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Exophiala;,5,0,0,11,35,20,19,32,37,32,13,24,7,19,0,19,39,70,62,88,99,73,97,81,72,954,1132,920,950,945,909,906,1012,944,936,887,964,896,852,1048,899,939,21,62,40,41,48,48
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Exophiala;Exophiala angulospora,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,18,8,9,10,12,5,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Exophiala;Exophiala bonariae,0,0,0,105,78,96,55,75,96,67,91,71,82,77,128,86,79,0,0,0,0,0,0,0,0,203,220,199,210,233,220,219,238,192,219,195,221,212,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Exophiala;Exophiala capensis,23,12,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Exophiala;Exophiala castellanii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,5,6,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Exophiala;Exophiala lacus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,81,65,57,54,38,76,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Exophiala;Exophiala pisciphila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,55,77,94,93,84,57,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Exophiala;Exophiala psychrophila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,16,0,0,0,10,0,0,0,0,0,12,17,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Exophiala;Exophiala salmonis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,9,20,8,10,19,0,11,20,14,26,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Exophiala;Exophiala sp.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,122,138,171,112,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Exophiala;Exophiala sp. STAF220,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,64,51,49,44,38,39,28,39,40,52,46,27,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Exophiala;Exophiala spinifera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Minimelanolocus;Minimelanolocus asiaticus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,34,28,0,26,31,30,22,49,10,20,10,20,711,697,804,766,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;NA;Herpotrichiellaceae sp.,29,47,37,250,218,214,215,262,228,211,294,221,175,240,167,195,233,0,0,0,0,0,0,0,0,774,766,727,730,690,644,739,822,751,668,654,759,667,0,14,7,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;NA;Herpotrichiellaceae sp. wF5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,0,0,7,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Phialophora;,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,310,308,349,389,310,387,391,389,157,203,170,144,139,192,148,162,163,152,172,152,140,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Phialophora;Phialophora americana,24,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,38,27,16,16,10,8,33,18,20,16,27,16,6,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Phialophora;Phialophora verrucosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,17,30,0,16,24,9,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Rhinocladiella;Rhinocladiella anceps,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,116,137,151,136,153,156,116,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Rhinocladiella;Rhinocladiella atrovirens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Rhinocladiella;Rhinocladiella sp. MA 4765,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Veronaea;,0,9,0,34,20,21,11,49,17,17,38,10,10,13,37,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Veronaea;Veronaea botryosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;NA;;,391,443,455,366,327,331,314,370,337,415,436,321,291,372,347,404,336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;NA;NA;Chaetothyriales sp.,3300,2933,3001,534,655,565,603,591,685,582,683,592,519,689,566,581,609,0,0,0,0,0,0,0,0,39,42,39,46,33,45,15,25,31,42,31,40,34,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;NA;NA;Chaetothyriales sp. 16708,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;NA;NA;Chaetothyriales sp. EXP0398F,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;NA;NA;Chaetothyriales sp. MP-2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,7,10,11,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Trichomeriaceae;Knufia;,88,94,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Chaetothyriales;Trichomeriaceae;Trichomerium;Trichomerium dioscoreae,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,73,82,65,67,56,62,0,0,0,10,14,17,39,36,15,0,22,17,35,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus;Aspergillus europaeus,0,0,0,0,0,0,8,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,14,10,8,6,7,7,16,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium;Penicillium longicatenatum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,6,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium;Penicillium sp.,0,202,476,302,235,295,290,289,238,328,306,206,201,238,230,279,351,368,475,181,150,161,158,90,12,47,131,253,316,422,559,572,216,239,382,501,682,183,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium;Penicillium sp. xz28,0,0,0,0,8,0,0,0,0,0,0,0,6,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Thermoascaceae;Byssochlamys;Byssochlamys verrucosa,0,0,0,25,34,15,0,0,5,6,6,15,6,8,6,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Trichocomaceae;Sagenomella;Sagenomella striatispora,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Trichocomaceae;Talaromyces;Talaromyces purpureogenus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,22,20,33,18,14,20,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;NA;;NA;,0,15,23,10,0,0,9,0,9,13,0,0,0,6,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;NA;NA;Spiromastix;Spiromastix sp. F19,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Onygenales;Arthrodermataceae;Trichophyton;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Onygenales;Gymnoascaceae;Gymnoascus;,0,0,0,23,19,21,36,28,13,27,49,26,10,17,17,34,18,11,0,0,0,0,0,13,0,9,8,8,6,0,12,12,0,0,9,15,0,6,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Onygenales;Gymnoascaceae;Leucothecium;Leucothecium emdenii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Onygenales;NA;;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,49,21,19,0,0,0,0,0,0
+Eukaryota;Ascomycota;Eurotiomycetes;Onygenales;Onygenaceae;Amauroascus;Amauroascus albicans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Geoglossomycetes;Geoglossales;Geoglossaceae;Geoglossum;Geoglossum vleugelianum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;Hyaloscyphaceae;Microscypha;Microscypha sp. TNS-F18016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;NA;;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127,132,147,112,169,153,176,177,0,5,5,5,5,0,11,0,0,8,0,0,0,1577,1732,1499,1609,661,699,565,622,644,613
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;NA;;Helotiales sp.,0,0,0,0,0,0,6,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,654,623,573,646,545,665,578,639,631,551,629,607,714,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;NA;Cadophora;,0,16,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,11,20,9,14,0,5,15,16,17,14,8,29,215,214,235,193,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;NA;Cadophora;Cadophora luteo-olivacea,26,39,18,141,97,147,120,168,155,137,124,119,72,134,164,154,107,71,69,95,114,79,102,85,137,90,54,72,60,76,85,110,66,114,73,67,66,72,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;NA;Cadophora;Cadophora orchidicola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,759,763,811,805,768,777,848,868,822,785,857,735,825,261,217,208,215,25,23,28,35,24,48
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;NA;Cadophora;Cadophora sp.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,40,60,85,62,61,63,76,0,0,0,0,0,0,0,0,0,0,0,0,0,71,6,36,0,0,0,0,0,34,0
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;NA;Infundichalara;Infundichalara microchona,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;NA;Leptodontidium;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,268,209,225,312,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;NA;Leptodontidium;Leptodontidium sp.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2930,2707,2912,2487,110,49,85,44,47,48
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;NA;NA;ericoid mycorrhizal sp. Sd2,0,0,0,30,41,25,0,32,26,16,74,31,29,44,22,32,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;NA;NA;Helotiales sp.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,6,128,172,202,123,100,107
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;NA;NA;Helotiales sp. REF045,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;NA;Phialocephala;Phialocephala fluminis,929,922,821,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;Rutstroemiaceae;NA;,0,0,0,19,16,12,14,7,19,18,12,14,14,10,11,10,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;Helotiales;Rutstroemiaceae;Rutstroemia;,0,13,0,12841,12841,12671,12646,12503,12510,12608,12070,12777,13129,12895,12926,12591,12823,0,0,0,0,0,0,0,0,651,680,607,613,667,650,736,661,650,633,653,697,741,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;NA;NA;NA;Leotiomycetes sp. LAB-2013,145,147,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;NA;NA;Scytalidium;Scytalidium sp. JCM 28058,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,14,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;NA;Pseudeurotiaceae;Geomyces;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,46,30,28,31,30,31,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;NA;Pseudeurotiaceae;Geomyces;Geomyces sp. 12NJ08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,179,100,108,120,122,116,138,70,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,6,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Leotiomycetes;NA;Pseudeurotiaceae;Geomyces;Geomyces sp. APA-2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;NA;;NA;;,0,0,48,0,0,0,6,0,0,0,0,0,0,0,0,0,0,280,286,257,280,281,279,270,280,0,0,0,0,5,0,0,0,0,0,0,0,0,2733,2771,2817,2663,0,0,0,0,0,0
+Eukaryota;Ascomycota;NA;;NA;Tetracladium;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;NA;NA;NA;Tetracladium;Tetracladium sp. MKOTU71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Orbiliomycetes;Orbiliales;Orbiliaceae;Dactylaria;Dactylaria sp. P7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,15,15,13,0,0,8,0,0,20,5,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Orbiliomycetes;Orbiliales;Orbiliaceae;Dactylella;Dactylella mammillata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Orbiliomycetes;Orbiliales;Orbiliaceae;Dactylella;Dactylella zhongdianensis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111,138,127,80,92,73,91,107,72,111,98,90,103,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Pezizomycetes;NA;NA;NA;Pezizomycetes sp. BLD9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,5,10,21,17,0,15,13,0,11,7,16,8,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Pezizomycetes;Pezizales;NA;NA;Pezizales sp. ICMP 20644,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Pezizaceae;Chromelosporium;Chromelosporium carneum,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Pezizaceae;Oedocephalum;,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Pyronemataceae;Geopora;Geopora sp.,0,0,0,731,679,786,671,727,597,766,826,807,826,518,589,732,603,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Pyronemataceae;Kotlabaea;Kotlabaea danuviana,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Pyronemataceae;NA;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,0,16,0,8,0,0,8,10,9,0,0,0,0,0,8,14,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Pezizomycetes;Pezizales;Pyronemataceae;Scutellinia;Scutellinia cejpii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,14,8,32,12,13,20,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces;Debaryomyces hansenii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,38,0,25,0,0,0,0,0,29,0,0,41,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Schwanniomyces;Schwanniomyces sp. JY119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;Lipomycetaceae;Lipomyces;Lipomyces anomalus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;NA;;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,33,29,41,46,0,0,34,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;NA;Candida;Candida sake,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Wickerhamomyces;Wickerhamomyces anomalus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Diaporthales;Harknessiaceae;Harknessia;,0,0,0,0,0,0,6,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Diaporthales;Harknessiaceae;Harknessia;Harknessia ravenstreetina,0,0,0,0,0,0,0,9,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Diaporthales;Schizoparmaceae;Coniella;Coniella fragariae,0,0,0,277,319,304,322,355,331,276,311,262,268,198,243,280,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Glomerellales;Plectosphaerellaceae;NA;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,7,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Bionectriaceae;Gliomastix;Gliomastix murorum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,15,0,20,9,26,28,18,16,0,8,0,0,25,0,5,15,6,16,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Bionectriaceae;Hydropisphaera;Hydropisphaera erubescens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Clavicipitaceae;Metapochonia;Metapochonia suchlasporia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,167,152,132,162,171,187,164,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Clavicipitaceae;Metarhizium;Metarhizium carneum,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,357,365,418,373,388,378,372,462,155,157,166,138,139,143,114,131,128,159,154,163,131,0,0,0,0,13,0,7,0,0,10
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Clavicipitaceae;Metarhizium;Metarhizium marquandii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,32,41,47,37,58,48,32,24,55,43,55,49,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Clavicipitaceae;Paecilomyces;Paecilomyces sp. KUC5016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,89,68,67,97,85
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Clavicipitaceae;Pochonia;Pochonia chlamydosporia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Cordycipitaceae;Simplicillium;Simplicillium lanosoniveum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,37,52,34,35,28,42,34,42,31,45,68,21,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Trichoderma;,22,28,59,0,0,10,17,26,0,0,11,10,7,0,0,6,24,101,119,91,96,98,127,107,77,80,88,114,110,103,132,103,92,95,68,94,107,65,11,17,7,0,37,0,0,7,0,6
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Trichoderma;Trichoderma citrinoviride,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,22,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Trichoderma;Trichoderma hamatum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,801,673,749,722,807,785,921,877,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Trichoderma;Trichoderma oblongisporum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,47,47,66,20,23
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;NA;;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Cosmospora;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Cosmospora;Cosmospora viridescens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,8,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Cylindrocarpon;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,6,0,0,0,6,0,8,8
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Cylindrocarpon;Cylindrocarpon sp.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Cylindrocarpon;Cylindrocarpon sp. PB1-R7-A Lr,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium oxysporum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Fusarium sp. JJP-2009a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Ilyonectria;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,9,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;NA;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,34,13,18,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Neonectria;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Ophiocordycipitaceae;Haptocillium;Haptocillium balanoides,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Ophiocordycipitaceae;Hirsutella;Hirsutella strigosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Stachybotryaceae;Myrothecium;Myrothecium sp. CL-2015,22,21,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Hypocreales;Stachybotryaceae;NA;,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,51,37,24,17,31,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;NA;NA;Xylomelasma;Xylomelasma sp. EMSL 2471,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,18,19,0,10,9,10,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Ophiostomatales;Ophiostomataceae;Sporothrix;Sporothrix stenoceras,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,26,27,35,16,21,16,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Sordariales;Chaetomiaceae;Humicola;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Sordariales;Chaetomiaceae;Thielavia;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Sordariales;Lasiosphaeriaceae;Podospora;Podospora curvuloides,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,57,72,80,0,0,0,0,53,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Sordariales;Lasiosphaeriaceae;Podospora;Podospora glutinans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Sordariales;Sordariaceae;Sordaria;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,58,55,62,64,60,49,68,63,85,71,82,45,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Xylariales;Apiosporaceae;Arthrinium;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1480,1974,1742,1812,1774,1807,1926,1865,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Xylariales;Bartaliniaceae;Truncatella;Truncatella angustata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,11,9,16,11,6,19,18,25,13,18,9,39,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Xylariales;Diatrypaceae;Diatrypella;Diatrypella verruciformis,7,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Xylariales;Hypoxylaceae;Hypoxylon;Hypoxylon crocopeplum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Xylariales;Xylariaceae;Anthostomella;,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Xylariales;Xylariaceae;Anthostomella;Anthostomella leucospermi,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Xylariales;Xylariaceae;NA;,0,0,0,8,9,10,12,8,0,14,10,17,15,12,5,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Xylariales;Xylariaceae;NA;Xylariaceae sp. genotype 418,0,0,0,0,0,0,0,0,0,0,5,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Xylariales;Xylariaceae;Xylaria;,0,0,0,5,10,8,6,10,10,11,8,7,0,10,13,6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Ascomycota;Sordariomycetes;Xylariales;Xylariaceae;Xylaria;Xylaria sp. 5 RV-2015,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,21,11,14,16,32,23,21,21,16,18,5,6,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Bacillariophyta;Coscinodiscophyceae;Thalassiosirales;Thalassiosiraceae;Thalassiosira;Thalassiosira pseudonana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,21,8,12,0,8,15,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Agaricaceae;Agaricus;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Agaricaceae;Tulostoma;,2666,2569,2521,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Agaricaceae;Tulostoma;Tulostoma beccarianum,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Bolbitiaceae;Conocybe;Conocybe nitrophila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,63,68,69,67,63,42,71,80,74,64,34,61,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Clavariaceae;Clavaria;Clavaria cf. fumosa TENN043695,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Cortinariaceae;Cortinarius;Cortinarius sp. 400 VM-2015,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Cortinariaceae;Cortinarius;Cortinarius sp. UBC F28435,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,62,47,31,69,54
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Cortinariaceae;Hebeloma;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,32,23,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Cortinariaceae;Hebeloma;Hebeloma dunense,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Cortinariaceae;Hebeloma;Hebeloma pamphiliense,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,16,32,44,34,23,25,45,30,37,24,23,32,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Cortinariaceae;Hebeloma;Hebeloma salicicola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Crepidotaceae;Simocybe;Simocybe sp. HMJAU sn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,13,17,25,20,16,14,21,14,20,16,13,11,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Entolomataceae;Clitopilus;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,9,8,23,35,19,24,17,15,16,15,0,39,28,11,24,29,24,18,22,29,0,0,7,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Entolomataceae;Clitopilus;Clitopilus prunulus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6620,6567,6375,6495,6506,6399,6297,6477,6552,6655,6406,6002,6499,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Entolomataceae;Entoloma;,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,107,108,158,114,89,115,118,166,0,0,0,0,0,0,0,0,0,0,0,0,0,533,525,477,621,0,0,0,0,0,16
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Entolomataceae;Entoloma;Entoloma byssisedum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,311,303,385,320,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Entolomataceae;Entoloma;Entoloma chalybaeum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,258,241,243,282,253,318,276,278,290,271
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Entolomataceae;Entoloma;Entoloma graphitipes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,208,175,180,156,151,168,180,146,175,155,161,187,138,0,17,13,8,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Entolomataceae;Entoloma;Entoloma mirum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,9,11,18,14
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Entolomataceae;Entoloma;Entoloma sp. H27,0,0,0,8,0,0,0,0,0,6,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Entolomataceae;Entoloma;Entoloma vindobonense,0,0,25,0,0,0,0,0,0,6,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,410,309,446,354,370,334,296,392,334,326
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Entolomataceae;Entoloma;Entoloma xanthochroum,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,23,0,0,0,11,0,13,8
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Entolomataceae;Leptonia;Leptonia occidentalis,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Entolomataceae;Rhodocybe;Rhodocybe tugrulii,49,55,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Hygrophoraceae;Hygrocybe;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,16,10,17,12,20
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Hygrophoraceae;Hygrocybe;Hygrocybe aff. conica PBM 918,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3352,3363,3147,3574,14867,14870,15039,14973,14940,15043
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Hygrophoraceae;Hygrocybe;Hygrocybe conica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1429,1396,1538,1550,7,5,12,8,10,7
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Inocybaceae;Inocybe;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,8,13,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Lycoperdaceae;Disciseda;Disciseda candida,7,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Lycoperdaceae;Lycoperdon;,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Lyophyllaceae;Fibulochlamys;Fibulochlamys chilensis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,23,19,14,20,21,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Lyophyllaceae;Lyophyllum;Lyophyllum turcicum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,45,32,72,48,52
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Marasmiaceae;Marasmius;Marasmius tantulus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;NA;;,0,7,0,5,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,9,5,0,13,18,16,25,8,14,0,23,8,8,7,17,0,35,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Cylindrobasidium;Cylindrobasidium sp. PDD 93221,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Nematoctonus;Nematoctonus leiosporus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,19,9,16,14,0,10,16,26,23,15,10,12,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pleurotaceae;Nematoctonus;Nematoctonus pachysporus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,43,63,38,49,67,39,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pluteaceae;Pluteus;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,5,6,12,0,0,5,6,0,0,0,8,15,7,10,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pluteaceae;Pluteus;Pluteus brunneidiscus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,40,44,24,28,56,49,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pluteaceae;Pluteus;Pluteus cervinus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pluteaceae;Pluteus;Pluteus exiguus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,456,434,400,410,376,386,329,409,396,422,401,397,416,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Pluteaceae;Pluteus;Pluteus longistriatus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Psathyrellaceae;Coprinellus;,21,9,16,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Psathyrellaceae;Coprinellus;Coprinellus eurysporus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Psathyrellaceae;Coprinopsis;,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,6,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Psathyrellaceae;Coprinopsis;Coprinopsis atramentaria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Psathyrellaceae;Psathyrella;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,29,45,36,31,26
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Psathyrellaceae;Psathyrella;Psathyrella kellermanii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,9,14,19,21,10,18,13,8,12,6,19,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Deconica;Deconica montana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,5,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;NA;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota adiposa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,11,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Stropharia;Stropharia aeruginosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,304,281,309,347,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Tricholomataceae;Clitocybe;,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Tricholomataceae;Dermoloma;Dermoloma sp. SAV4102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,14,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Tricholomataceae;Hemimycena;Hemimycena gracilis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Tricholomataceae;Hydropus;Hydropus scabripes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,7,8,13,0,0,0,0,0,6
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Tricholomataceae;Lepista;Lepista irina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,15,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Tricholomataceae;Lepista;Lepista sordida,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Tricholomataceae;Melanoleuca;,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Tricholomataceae;Omphalina;Omphalina pyxidata,24,27,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Agaricales;Tricholomataceae;Paralepista;Paralepista flaccida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Cantharellales;Ceratobasidiaceae;Rhizoctonia;Rhizoctonia solani,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,54,19,25,26,25,35,48,42,24,33,29,41,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Cantharellales;Ceratobasidiaceae;Waitea;Waitea circinata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,19,9,29,18,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Cantharellales;NA;Minimedusa;Minimedusa polyspora,7,7,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Corticiales;Corticiaceae;Hyphodontia;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Corticiales;Corticiaceae;Lyomyces;Lyomyces organensis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Corticiales;Corticiaceae;Lyomyces;Lyomyces sambuci,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,26,9,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Corticiales;Corticiaceae;NA;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,514,551,547,560,530,473,565,596,560,529,626,526,522,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Geastrales;Geastraceae;Geastrum;,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Hymenochaetaceae;Fuscoporia;Fuscoporia ferrea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,18,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Hymenochaetales;Schizoporaceae;Schizopora;Schizopora radula,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;NA;;NA;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Dacryobolaceae;Postia;Postia guttulata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Irpicaceae;Byssomerulius;Byssomerulius corium,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;NA;NA;Aphyllophorales sp. WRCF-B4,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Polyporales;Polyporaceae;Ganoderma;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,13,6,6,8,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Peniophoraceae;Peniophora;,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Russulales;Peniophoraceae;Peniophora;Peniophora sp. 1 LR-2016,19,13,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Sebacinales;Sebacinaceae;NA;Sebacinaceae sp. 5 MB-2012,15,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,306,248,333,382,322,310,360,334,379,352,345,387,371,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Sebacinales;Sebacinaceae;Sebacina;Sebacina sp. Rr35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,142,152,136,144,125,153,141,138,153,147,105,155,135,369,547,393,470,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Thelephorales;Thelephoraceae;Tomentella;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Agaricomycetes;Thelephorales;Thelephoraceae;Tomentella;Tomentella atramentaria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,10,12,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Tremellomycetes;Cystofilobasidiales;Mrakiaceae;Udeniomyces;Udeniomyces pyricola,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Basidiomycota;Tremellomycetes;Filobasidiales;Piskurozymaceae;Solicoccozyma;Solicoccozyma terricola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,6,0,0
+Eukaryota;Basidiomycota;Tremellomycetes;Tremellales;Trimorphomycetaceae;Saitozyma;Saitozyma podzolica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Chytridiomycota;Chytridiomycetes;Chytridiales;Chytridiaceae;Phlyctochytrium;Phlyctochytrium africanum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,20,12,23,37,9,34,37,61,45,37,36,40,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Chytridiomycota;Chytridiomycetes;Lobulomycetales;Lobulomycetaceae;Lobulomyces;Lobulomyces sp. JEL178,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,16,12,5,8,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Chytridiomycota;Chytridiomycetes;Rhizophydiales;NA;Operculomyces;Operculomyces laminatus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,31,46,36,38,26,34,56,6,0,16,0,11,0,0,17,10,0,10,6,6,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Mucoromycota;Glomeromycetes;Diversisporales;NA;Entrophospora;Entrophospora sp. JJ61,14,16,33,0,0,0,17,0,0,0,10,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Mucoromycota;Glomeromycetes;Glomerales;Glomeraceae;Glomus;Glomus versiforme,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0
+Eukaryota;Mucoromycota;NA;Mortierellales;Mortierellaceae;Haplosporangium;Haplosporangium bisporale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,26,24,15,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Mucoromycota;NA;Mortierellales;Mortierellaceae;Mortierella;,0,0,0,27,41,60,43,69,49,78,54,50,48,39,59,58,52,1103,1102,1393,1134,1082,1235,1214,1387,0,15,0,0,6,0,5,9,0,0,0,0,0,0,7,0,0,9,5,10,5,0,8
+Eukaryota;Mucoromycota;NA;Mortierellales;Mortierellaceae;Mortierella;Mortierella alpina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,176,250,237,311,310,281,208,302,807,682,776,710,730,684,784,739,759,769,744,737,725,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Mucoromycota;NA;Mortierellales;Mortierellaceae;Mortierella;Mortierella capitata,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,5,0,11,0,12,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Mucoromycota;NA;Mortierellales;Mortierellaceae;Mortierella;Mortierella gamsii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,6,8,0,8,17,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Mucoromycota;NA;Mortierellales;Mortierellaceae;Mortierella;Mortierella globulifera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,6,0,11,0,5,0,7,0
+Eukaryota;Mucoromycota;NA;Mortierellales;Mortierellaceae;Mortierella;Mortierella oligospora,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,47,0,0,0,0,0,0,0,0,24,0,36,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Mucoromycota;NA;Mortierellales;Mortierellaceae;Mortierella;Mortierella pseudozygospora,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+Eukaryota;Mucoromycota;NA;Mortierellales;Mortierellaceae;Mortierella;Mortierella sp. OTU094 AN-2016,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Mucoromycota;NA;Mortierellales;NA;;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+Eukaryota;Mucoromycota;NA;Mucorales;Mucoraceae;Mucor;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,20,0,27,33,69,51,38,5,53,24,35,24,23,52,33,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Mucoromycota;NA;Mucorales;Mucoraceae;Mucor;Mucor circinelloides,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Mucoromycota;NA;Mucorales;Mucoraceae;Mucor;Mucor racemosus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,11,0,0,55,60,60,74,72,69,42,71,75,50,50,68,69,0,0,0,0,0,0,0,0,0,0
+Eukaryota;Mucoromycota;NA;Umbelopsidales;Umbelopsidaceae;Umbelopsis;,46,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eukaryota;NA;;NA;;NA;,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+Eukaryota;Streptophyta;Klebsormidiophyceae;Klebsormidiales;Klebsormidiaceae;Klebsormidium;Klebsormidium elegans,31,36,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
